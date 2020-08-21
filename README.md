@@ -8,8 +8,6 @@ I'm Ellen. You probably know me better as _duckinator_ or _puppy_.
 
 **If you can, please consider supporting me via [GitHub Sponsors](https://github.com/sponsors/duckinator).**
 
-My income has dropped by 60% due to COVID-19, and getting support for more of my open source work would help a lot. :heart: 
-
 <!--
 **duckinator/duckinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
