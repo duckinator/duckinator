@@ -2,11 +2,11 @@
 
 I'm Ellen. You probably know me better as _duckinator_ or _puppy_.
 
-**I'm currently in the process of finding a new place and then moving into it so I may take a while to respond to issues and pull requests.**
+**I'm currently in the process of moving so I may take a while to respond to issues and pull requests.**
 
 - 🔭 I’m currently working on [Bork](https://github.com/duckinator/bork) and [Boreutils](https://github.com/duckinator/boreutils).
-- 🌱 I’m currently learning about [expert systems](https://en.wikipedia.org/wiki/Expert_system) &mdash; look forward to a new project related to this Soon™!
-- 🤔 I’m looking for help refactoring Bork.
+- 🌱 I’m currently learning about [expert systems](https://en.wikipedia.org/wiki/Expert_system).
+<!-- - 🤔 I’m looking for help refactoring Bork. -->
 
 **If you can, please consider supporting me via [Patreon](https://patreon.com/duckinator).**
 
