@@ -4,7 +4,7 @@ I'm Ellen. You probably know me better as _duckinator_ or _puppy_.
 
 - 🔭 I’m currently working on [Bork](https://github.com/duckinator/bork) and [Boreutils](https://github.com/duckinator/boreutils).
 - 🌱 I'm currently learning Rust!
-- 🤔 I'm currently looking for help [resolving a macOS-specific CI problem with Bork](https://github.com/duckinator/bork/issues/282). This is blocking the v6.0.0 release.
+- 🤔 I'm currently looking for help [resolving a macOS-specific CI failure with Bork](https://github.com/duckinator/bork/issues/282). This is blocking the v6.0.0 release.
 <!-- - 🌱 I’m currently learning about [expert systems](https://en.wikipedia.org/wiki/Expert_system). -->
 
 **If you can, please consider supporting me via [Patreon](https://patreon.com/duckinator).**
