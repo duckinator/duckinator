@@ -2,9 +2,9 @@
 
 I'm Ellen. You probably know me better as _duckinator_ or _puppy_.
 
-- 🔭 I’m currently working on [jim](https://github.com/duckinator/jim).
+- 🔭 I’m currently working on [jwl](https://github.com/duckinator/jwl).
 - ✨ [Bork 10.0](https://pup-e.com/blog/bork-v10/) was released on November 1st.
-- ✨ [Jim 1.0.0b1](https://pup-e.com/blog/jim-first-beta/) was released on October 29th.
+- ✨ [Jwl 1.0.0b4](https://github.com/duckinator/jwl/releases/tag/1.0.0b4) was released on January 27th.
 <!-- - 🤔 I'm looking for help [unblocking the release of Bork v10.x](https://github.com/duckinator/bork/issues/385).-->
 <!--- 🌱 I'm currently getting more familiar with [egui](https://github.com/emilk/egui)!-->
 <!-- - 🌱 I’m currently learning about [expert systems](https://en.wikipedia.org/wiki/Expert_system). -->
